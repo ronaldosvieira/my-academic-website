@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>2314, Annex U</p>
+    <p>Room 2314, Annex U</p>
     <p>Instituto de Ciências Exatas (ICEX)</p>
     <p>Universidade Federal de Minas Gerais (UFMG)</p>
     <p>Belo Horizonte, Brazil</p>
