@@ -24,7 +24,7 @@
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
           <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
+            <a class="nav-link" href="{{ '/' | relative_url | prepend: site.base_url }}">
               about
               {% if page.title == "about" %}
                 <span class="sr-only">(current)</span>
@@ -34,7 +34,7 @@
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
+            <a class="nav-link" href="{{ '/blog/' | relative_url | prepend: site.base_url }}">
               blog
               {% if page.title == "blog" %}
               <span class="sr-only">(current)</span>
@@ -45,9 +45,9 @@
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
-          {% if p.nav and p.autogen == nil %}
+          {% if p.nav %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-              <a class="nav-link" href="{{ p.url | relative_url }}">
+              <a class="nav-link" href="{{ p.url | relative_url | prepend: site.base_url }}">
                 {{ p.title }}
                 {% if page.title == p.title %}
                 <span class="sr-only">(current)</span>
