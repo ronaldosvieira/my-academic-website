@@ -18,8 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD student at the Computer Science department of Universidade Federal of Minas Gerais (UFMG). I received a MSc degree in Computer Science from the same university in 2020, and a BSc degree in Computer Science from Universidade Federal Rural do Rio de Janeiro (UFRRJ) in 2017, with a sandwich period at University of British Columbia (UBC) from 2014 to 2015.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm also a member of the [Multidisciplinary Research Lab. on Games (J Lab)](http://www.j.dcc.ufmg.br/){:target="\_blank"} and of the [Vision and Robotics Lab. (VeRLab)](https://www.verlab.dcc.ufmg.br/){:target="\_blank"}, and my research interests include artificial intelligence, games and multiagent systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+You can reach me at ronaldo.vieira [at] dcc [dot] ufmg [dot] br.
