@@ -7,7 +7,10 @@
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
     {% else %}
-    <abbr class="badge">{{entry.abbr}}</abbr>
+      <abbr class="badge">{{entry.abbr}}</abbr> 
+      {% if entry.bestpaper %}
+        <abbr class="badge badge-pill badge-warning">Best paper</abbr>
+      {% endif %}
     {% endif %}
   {% endif %}
   </div>
