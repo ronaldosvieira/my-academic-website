@@ -18,4 +18,6 @@ I'm a PhD student at the Computer Science department of Universidade Federal of 
 
 My research interests include artificial intelligence in games and distributed multiagent systems. I'm currently working on game-playing AI agents for collectible card games and real-time strategy games.
 
+I like soccer (as any Ronaldo would) and sports in general, digital and tabletop games (especially RPGs), memes, not taking myself too seriously, and being with empathetic, open-minded people.
+
 You can reach me at ronaldo.vieira [at] dcc [dot] ufmg [dot] br.
