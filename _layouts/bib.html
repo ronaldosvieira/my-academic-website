@@ -86,9 +86,8 @@
           <div class="periodical">
             {{ periodical | strip }}
           </div>
-          {%- if entry.bestpaper %}
-            <i class="fas fa-star" style="color: gold"></i>
-            <b>Best paper award!</b>
+          {%- if entry.award %}
+            <b>{{ entry.award }}</b>
           {%- endif %}
         {%- endif %}
         
