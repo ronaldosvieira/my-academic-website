@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at UFMG <img src="assets/img/flag-brazil.png" height=15>
+subtitle: PhD candidate at UFMG <img src="assets/img/flag-brazil.png" height=15>
 
 profile:
   align: right
