@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a member of the [Multidisciplinary Research Lab. on Games (J Lab)](http://www.j.dcc.ufmg.br/){:target="\_blank"} and of the [Vision and Robotics Lab. (VeRLab)](https://www.verlab.dcc.ufmg.br/){:target="\_blank"}.
 
-My research interests include artificial intelligence in games and distributed multiagent systems. I'm currently working on game-playing AI agents for collectible card games and real-time strategy games.
+My research interests include artificial intelligence in games and multiagent systems. I'm currently working on game-playing AI agents for collectible card games and real-time strategy games.
 
 I like soccer (as any Ronaldo would) and sports in general, digital and tabletop games (especially RPGs), memes, not taking myself too seriously, and being with empathetic, open-minded people.
 
